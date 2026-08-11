@@ -1,0 +1,14 @@
+# O .git contém o histórico inteiro e, neste projeto, tambem o token de acesso
+# ao GitHub gravado em .git/git-credentials. Nada disso pode entrar na imagem.
+.git
+.gitignore
+
+__pycache__/
+*.py[cod]
+
+# A propria imagem exportada, para nao empacotar uma imagem dentro da outra.
+*.tar
+
+.env
+*.pem
+.DS_Store

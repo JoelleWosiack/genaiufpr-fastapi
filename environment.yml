@@ -1,0 +1,9 @@
+name: clima_api
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - fastapi
+  - uvicorn
+  - requests
+  - matplotlib-base
