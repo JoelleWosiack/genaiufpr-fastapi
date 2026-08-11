@@ -114,8 +114,3 @@ sudo swapon /swapfile
 - **Requests** para consumir a API da Open-Meteo
 - **Matplotlib** para renderizar o gráfico no servidor
 - **Docker** e **conda** para empacotamento e reprodutibilidade
-
-## Licença
-
-MIT
-
